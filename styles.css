@@ -1,0 +1,24 @@
+h1 {
+    color: purple;
+}       
+p {
+   color: palevioletred
+}
+
+body {
+    background-color: rgb(65, 2, 253);
+ }
+
+#p1 {
+    color: rgb(0, 130, 7)
+}
+.big-text {
+    font-size: 3em;
+    color: rgb(130, 17, 0)
+}
+. go green {
+    color:rgb(0, 130, 7)
+}
+. go red {
+    color: crimson
+}

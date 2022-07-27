@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS-HTML Activity</title>
+        <link rel="stylesheet" href="styles.css">
+        <!-- <style>
+            h1 {
+                color: palevioletred;
+            }
+            p {
+                color: cornflowerblue
+            }
+            body {
+                background-color: crimson;
+            }
+        </style> -->
+    </head>
+    <!-- <body style="background-color: purple;"> -->
+        <h1>CSS-HTML Activity</h1>
+        <p id="p1">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam impedit quidem quisquam excepturi quia illum fugiat, eligendi asperiores adipisci nesciunt minus repellat est nobis perspiciatis voluptate nostrum, repudiandae eveniet quod!
+        </p>
+        <p class="big-text">
+        <ul>
+            <li>Wash the car</li>
+            <li>Clean the dishes </li>
+            <li class="big-text go red">Feed the dog</li>
+        </ul>
+    </body>
+</html>
